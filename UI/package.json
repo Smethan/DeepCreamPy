@@ -1,0 +1,14 @@
+{
+  "name": "deepcreampy_ui",
+  "version": "1.0.0",
+  "description": "UI for DeepCreamPy",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Smethan",
+  "license": "AGPL-3.0-or-later",
+  "devDependencies": {
+    "electron": "^3.0.7"
+  }
+}
